@@ -2,5 +2,6 @@ const b = () => {
 alert("hellow")
 }
 const c = () => {
-    return 3;
+    return '3';
+ע
 }
